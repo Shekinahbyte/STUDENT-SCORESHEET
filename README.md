@@ -1,5 +1,4 @@
 # STUDENT-SCORESHEET
- Project Summary
 This Java console application simulates a student academic scoresheet generator.
 It allows the user to enter:
 School name
